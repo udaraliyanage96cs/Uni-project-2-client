@@ -1,0 +1,12 @@
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+.formlable{
+    float: left;
+}
+.modal-body .form-group{
+    margin-bottom: 20px;
+}
+#subtn{
+    float: right;
+}

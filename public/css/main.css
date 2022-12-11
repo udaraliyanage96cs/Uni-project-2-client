@@ -1,0 +1,136 @@
+.herohead{
+    height: 150px;
+    width: 100%;
+    background-color: violet;
+    color: #fff;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+#contentbox{
+    padding:100px 0;
+}
+.articlecontent{
+    margin-top: 50px;
+}
+.imgs img{
+    width: 100%;
+    height: 150px;
+    margin-top: 20px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.right-sidebar{
+    height: auto;
+    width: 100%;
+    background-color: aqua;
+}
+.btt{
+    margin-left: 10px;
+}
+.rvbox{
+    margin-top: 50px;
+}
+
+.revtxt{
+    margin-top: 20px;
+}
+.reviews{
+    margin-top: 50px;
+}
+.revcmnt{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px !important;
+    background-color: #eee;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-bottom-right-radius: 0px;
+    
+}
+.admrevcmnt{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px !important;
+    background-color: #00af9c;
+    color: #fff;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-top-left-radius: 0px;
+}
+.subbtn{
+    margin: 20px 0;
+    float: right;
+}
+.dtdel{
+    align-items: center;
+}
+.dtime{
+    text-align: right;
+}
+.delbtn{
+    background-color: violet;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: grid;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+}
+.reactionbtn{
+    color: #000 !important;
+}
+.formtag{
+    margin-top: 20px;
+    display: none;
+}
+.replybtn{
+    cursor: pointer;
+}
+
+
+.fbtn{
+    display: grid;
+    align-items: flex-end;
+}
+
+.mobser2{
+    display: grid;
+    align-items: center;
+}
+#schicon{
+    font-size: 30px;
+}
+.card-body{
+    padding: 15px !important;
+}
+.textbox{
+    overflow: hidden;
+    line-height: 1em;
+    height: 240px;
+}
+
+.showContent{
+    height: auto;
+}
+.hidebtn{
+    display: none;
+    cursor: pointer;
+    color: #00af9c !important;
+}
+.showbtn{
+    cursor: pointer;
+    color: #00af9c !important;
+}
+
+.remdiv{
+   
+}
+/* .gallery img:hover .remdiv{
+    transform: translateY(-100%);
+    opacity: 0.5;
+   
+} */
